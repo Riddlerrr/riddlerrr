@@ -1,7 +1,5 @@
 # Sergei Andronov, Ruby on Rails developer
 
-🙋‍♂️ Seeking for a job
-
 ## About me
 
 I am a full-stack developer with 10+ years of Ruby on Rails experience in commercial projects.
