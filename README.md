@@ -15,7 +15,7 @@ I'm based in Valencia, Spain and I work remotely over 10 year already.
 ## Open source and code examples
 
 - [Bullet train](https://github.com/bullet-train-co/bullet_train) I Implemented a webhook deactivation system [PR](https://github.com/bullet-train-co/bullet_train-core/pull/1160)
-- [LazyMCP](https://github.com/Riddlerrr/lazymcp)(https://lazymcp.ai/) - A general-purpose MCP (Model Context Protocol) server written in Go
+- [LazyMCP](https://github.com/Riddlerrr/lazymcp) (https://lazymcp.ai/) - A general-purpose MCP (Model Context Protocol) server written in Go
 - [Credman gem](https://github.com/Uscreen-video/credman) The tool that you miss for managing Rails credentials
 - [RoboWallet](https://github.com/CoMakery/robowallet) Node.JS app for automatic transaction processing wallet that connects to the Upside API
 
