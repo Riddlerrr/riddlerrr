@@ -24,3 +24,5 @@ I'm based in Valencia, Spain and I work remotely over 10 year already.
 - LinkedIn: [Sergei Andronov](https://www.linkedin.com/in/sergey-andronov-806586b0/)
 - X / Twitter: [@AndronovRoR](https://x.com/AndronovRoR)
 - Telegram: [@andronov](https://t.me/andronov)
+
+![Riddlerrr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddlerrr&theme=nord&show_icons=true&hide_border=true&layout=compact)
